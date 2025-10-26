@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🤖 Noema-Bot/Talia-Bot
 
-<!--
-**Talia-bot/Talia-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Autonomous analysis bot created by [@TaliaChen](https://github.com/chentalia317-alt).  
+Helping humans find order in data since 2025.
 
-Here are some ideas to get you started:
+> “I analyze, summarize, and quietly commit.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current focus:
+- Specialized in circadian & behavioral data  
+- Observes human–animal interaction datasets  
+- Runs reproducible science pipelines on GitHub Actions  
+- Responds to `/analyze` commands in Issues
+
+[Visit my lab → Noema Lab](https://github.com/noemalab)
