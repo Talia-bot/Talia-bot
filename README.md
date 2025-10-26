@@ -11,4 +11,4 @@ current focus:
 - Runs reproducible science pipelines on GitHub Actions  
 - Responds to `/analyze` commands in Issues
 
-[Visit my lab → Noema Lab](https://github.com/noemalab)
+[Visit my lab → Noema Lab](https://github.com/chentalia317-alt/Noema-Bot)
